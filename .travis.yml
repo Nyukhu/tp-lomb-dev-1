@@ -4,7 +4,7 @@ node_js:
 
 deploy:
     provider: heroku
-    api_key: 7d5e51c1-4cd4-4f8a-a1ab-af3113b0a608
+    api_key: 1f8e8de1-8913-45b5-ae66-1996c2935bf4
     app:
-        main: sg-001-prod
-        develop: sg-456-staging
+        main: tp-lomp-prod
+        develop: tp-lomb-dev
