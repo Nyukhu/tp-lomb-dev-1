@@ -8,3 +8,5 @@ deploy:
     app:
         main: tp-lomp-prod
         develop: tp-lomb-dev
+
+after_success: npm run coveralls
